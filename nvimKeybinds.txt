@@ -1,0 +1,9 @@
+<leader> = spacebar
+
+Ctrl-e = NeoTree File Explorer
+<leader>bf = Float List of Buffers
+Ctrl-p = Telescope File Finder
+<leader><leader> = Open previous files
+:<line number> = To go to a line
+[Normal Mode] /<word to search> [Enter] "n" to find the next match
+[Normal Mode] - opens Floating File Explorer
